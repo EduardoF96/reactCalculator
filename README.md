@@ -1,1 +1,1 @@
-reactCalculator
+Calculator
